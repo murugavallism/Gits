@@ -6,5 +6,9 @@ public class Gitss {
 		System.out.println("m1");
 
 	}
+	private void m3() {
+		System.out.println("m3");
+
+	}
 	
 }
